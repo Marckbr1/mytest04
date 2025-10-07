@@ -1,0 +1,1 @@
+{"AUV_ID": "0", "sonar_raw_data_file": "0", "sonar_cartesian_image_file": "0.png", "sonar_polar_image_file": "0.png", "x": 2.0, "y": 0.0, "z": -2.5, "roll": 0.0, "pitch": 0.0, "yaw": 180.0, "sonar_azimuth": 130, "sonar_range_min": 0.5, "sonar_range_max": 10.0, "azimuth_bins": 768, "range_bins": 394}
